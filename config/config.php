@@ -1,3 +1,4 @@
 <?php
 
-const SITE_TITLE = 'Site Title';
+const SITE_NAME = 'phpers.org';
+const SITE_TITLE = 'phpers.org';
