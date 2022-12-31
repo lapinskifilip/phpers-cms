@@ -1,3 +1,3 @@
 <?php
 
-include 'view/about-us.html';
+include 'view/aboutUs.html';

@@ -1,3 +1,3 @@
 <?php
 
-include 'view/home-page.html';
+include 'view/homePage.html';
